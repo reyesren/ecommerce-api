@@ -23,7 +23,7 @@ This application was created using:
 - Express.js
 - mongoDB
 
-This application was testing using:
+This application was tested using:
 - chai
 - mocha
 - supertest
