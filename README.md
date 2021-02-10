@@ -5,6 +5,9 @@ This is a rest-api express application used to simulate a ecommerce platform. Th
 
 ## Available Scripts
 
+Before running the project, install all packages:
+### `npm i`
+
 In the project directory, you can run:
 
 ### `npm start`
